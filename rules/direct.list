@@ -1,0 +1,19 @@
+# NAME: Direct
+# AUTHOR: lucian1037
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 
+# IP-CIDR: 1
+# USER-AGENT: 1
+# TOTAL: 0
+DOMAIN-SUFFIX,zlattice.top
+DOMAIN-SUFFIX,ps.air-outer.com
+DOMAIN-SUFFIX,gpt.hslife.fun
+DOMAIN-SUFFIX,newapi.qwqtao.com
+DOMAIN-SUFFIX,mynav.website
+DOMAIN-SUFFIX,cc.freemodel.dev
+DOMAIN-SUFFIX,www.xiaohongshu.com
+DOMAIN-SUFFIX,k40.shengqainbang.cn
+DOMAIN-SUFFIX,invite.linuxdo.org
+DOMAIN-SUFFIX,gitlab-pdc.ustchcs.com
+IP-CIDR,172.22.0.0/16,no-resolve
+IP-CIDR,112.26.202.82/32,no-resolve
