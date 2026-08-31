@@ -1,10 +1,10 @@
 # NAME: Direct
 # AUTHOR: lucian1037
 # DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 11
-# IP-CIDR: 2
+# DOMAIN-SUFFIX: 12
+# IP-CIDR: 3
 # USER-AGENT: 0
-# TOTAL: 13
+# TOTAL: 15
 DOMAIN-SUFFIX,zlattice.top
 DOMAIN-SUFFIX,ps.air-outer.com
 DOMAIN-SUFFIX,a-ocnfniawgw.cn-shanghai.fcapp.run
@@ -19,3 +19,4 @@ DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,lzhiyu.ccwu.cc
 IP-CIDR,172.22.0.0/16,no-resolve
 IP-CIDR,112.26.202.82/32,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
