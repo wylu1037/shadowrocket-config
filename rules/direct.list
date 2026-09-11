@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,invite.linuxdo.org
 DOMAIN-SUFFIX,gitlab-pdc.ustchcs.com
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,lzhiyu.ccwu.cc
-DOMAIN-SUFFIX,tokenrouter.com
 DOMAIN-SUFFIX,anyrouter.top.a1.initrr.com
 IP-CIDR,172.22.0.0/16,no-resolve
 IP-CIDR,112.26.202.82/32,no-resolve
