@@ -2,12 +2,18 @@
 # AUTHOR: lucian1037
 # DOMAIN: 0
 # DOMAIN-SUFFIX: 1
-# DOMAIN-KEYWORD: 0
+# DOMAIN-KEYWORD: 3
 # IP-CIDR: 0
-# TOTAL: 1
+# TOTAL: 4
 #
 # 每行只写匹配条件，不要在本文件中追加策略组名称。
 # 精确匹配单个主机：DOMAIN,api.example.com
 # 匹配根域名及所有子域名：DOMAIN-SUFFIX,example.com
 # 按关键字模糊匹配（慎用）：DOMAIN-KEYWORD,example
-DOMAIN-SUFFIX,anyrouter.top
+# DOMAIN-SUFFIX,anyrouter.top
+# Antigravity (VSCode 插件 / agy 内核) 实际 API 域名，不含 "antigravity" 字样，故用关键字覆盖
+# cloudcode -> cloudcode-pa / daily-cloudcode-pa / autopush-cloudcode-pa.sandbox 等
+# aicode -> aicode / businessaicode / autopush-aicode.sandbox 等
+DOMAIN-KEYWORD,cloudcode
+DOMAIN-KEYWORD,aicode
+DOMAIN-KEYWORD,antigravity
