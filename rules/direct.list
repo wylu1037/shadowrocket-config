@@ -2,9 +2,10 @@
 # AUTHOR: lucian1037
 # DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 13
-# IP-CIDR: 3
+# IP-CIDR: 7
+# IP-CIDR6: 2
 # USER-AGENT: 0
-# TOTAL: 16
+# TOTAL: 22
 DOMAIN-SUFFIX,zlattice.top
 DOMAIN-SUFFIX,ps.air-outer.com
 DOMAIN-SUFFIX,a-ocnfniawgw.cn-shanghai.fcapp.run
@@ -19,6 +20,12 @@ DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,lzhiyu.ccwu.cc
 DOMAIN-SUFFIX,anyrouter.top.a1.initrr.com
 DOMAIN-SUFFIX,api.z.ai
-IP-CIDR,172.22.0.0/16,no-resolve
-IP-CIDR,112.26.202.82/32,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,112.26.202.82/32,no-resolve
+IP-CIDR6,fc00::/7,no-resolve
+IP-CIDR6,fe80::/10,no-resolve
