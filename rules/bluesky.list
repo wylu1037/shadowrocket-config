@@ -1,8 +1,8 @@
 # NAME: Bluesky
 # AUTHOR: lucian1037
 # DOMAIN: 0
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
 #
 # 每行只写匹配条件，不要在本文件中追加策略组名称。
 # 精确匹配单个主机：DOMAIN,api.example.com
@@ -10,6 +10,7 @@
 # 按关键字模糊匹配（慎用）：DOMAIN-KEYWORD,example
 DOMAIN-SUFFIX,agentrouter.org
 DOMAIN-SUFFIX,anyrouter.top
+DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,lty02.com
 DOMAIN-SUFFIX,superapi.buzz
 DOMAIN-SUFFIX,tokenrouter.com
